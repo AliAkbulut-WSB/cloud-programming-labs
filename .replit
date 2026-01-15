@@ -26,7 +26,8 @@ outputType = "console"
 
 [[workflows.workflow.tasks]]
 task = "shell.exec"
-args = "npm run"
+args = "npm run dev"
+
 
 [[ports]]
 localPort = 5000
