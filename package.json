@@ -1,0 +1,10 @@
+{
+  "name": "cloud-programming-labs",
+  "version": "1.0.0",
+  "description": "Cloud programming labs template",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "node src/main.js"
+  },
+  "dependencies": {}
+}
