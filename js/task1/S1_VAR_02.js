@@ -9,12 +9,9 @@ try {
 
 try {
     {
-       var blockVar = "I'm also inside the block!";
-    } 
-    console.log(blockVar);
+        var blockVar = "I'm also inside the block!";
+    }
+    console.log(blockVar); 
 } catch (error) {
     console.log("Friendly message: The variable is not accessible outside its block.");
 }
-
-console.log(blockVar); 
-console.log(blockLetVar);
